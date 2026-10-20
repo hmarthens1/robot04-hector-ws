@@ -1,0 +1,6 @@
+# Upstream sources for this workspace:  vcs import src < hector.repos
+repositories:
+  hector_slam_ros2:
+    type: git
+    url: https://github.com/RobotX-Workshops/hector_slam_ros2.git
+    version: 87a9651    # ROS 2 Jazzy port of hector_mapping (BSD-2); builds on Humble unchanged

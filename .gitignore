@@ -1,0 +1,7 @@
+# colcon
+build/
+install/
+log/
+# imported with vcs (hector.repos)
+src/hector_slam_ros2/
+__pycache__/
